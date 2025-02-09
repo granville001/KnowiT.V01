@@ -4,7 +4,7 @@
 
 To provide users with a personalized and effective experience, our application collects the following types of data:
 
-*First Name and Last Name:* Used to personalize user interactions and communications.
+**First Name and Last Name:** Used to personalize user interactions and communications.
 
 *Major:* Used to generate customized interview questions, pitches, and other app features tailored to the user’s academic or professional background.
 
