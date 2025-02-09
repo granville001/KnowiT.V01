@@ -6,21 +6,21 @@ To provide users with a personalized and effective experience, our application c
 
 **First Name and Last Name:** Used to personalize user interactions and communications.
 
-*Major:* Used to generate customized interview questions, pitches, and other app features tailored to the user’s academic or professional background.
+**Major:** Used to generate customized interview questions, pitches, and other app features tailored to the user’s academic or professional background.
 
-Email Address: Used as a unique identifier for users and for communication purposes.
+**Email Address:** Used as a unique identifier for users and for communication purposes.
 
-School: Used to further personalize features such as negotiation letters and pitches by incorporating educational context.
+**School:** Used to further personalize features such as negotiation letters and pitches by incorporating educational context.
 
 ## Use of Data
 
 The data collected is utilized in the following ways:
 
-Personalization: To customize features such as interview questions, pitches, and negotiation letters, ensuring they align with the user’s specific needs and background.
+**Personalization:** To customize features such as interview questions, pitches, and negotiation letters, ensuring they align with the user’s specific needs and background.
 
-Communications: To address users personally in correspondence and to send updates or notifications about the app.
+**Communications:** To address users personally in correspondence and to send updates or notifications about the app.
 
-User Identification: To uniquely identify users and maintain the integrity of their profiles within the app.
+**User Identification:** To uniquely identify users and maintain the integrity of their profiles within the app.
 
 ## Data Sharing
 
