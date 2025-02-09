@@ -4,13 +4,13 @@
 
 To provide users with a personalized and effective experience, our application collects the following types of data:
 
-**First Name and Last Name:** Used to personalize user interactions and communications.
-
-**Major:** Used to generate customized interview questions, pitches, and other app features tailored to the user’s academic or professional background.
-
-**Email Address:** Used as a unique identifier for users and for communication purposes.
-
-**School:** Used to further personalize features such as negotiation letters and pitches by incorporating educational context.
+**First Name and Last Name**
+**Major** 
+**Email Address** 
+**School** 
+**Pitches** 
+**Interview Questions and Answers**
+**Negotiation Letters**
 
 ## Use of Data
 
