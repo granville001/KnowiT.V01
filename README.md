@@ -4,13 +4,20 @@
 
 To provide users with a personalized and effective experience, our application collects the following types of data:
 
-**First Name and Last Name** \n 
-**Major** \n 
-**Email Address** \n 
-**School** \n 
-**Pitches** \n 
-**Interview Questions and Answers** \n 
-**Negotiation Letters** \n 
+**First Name and Last Name**
+
+**Major**
+
+**Email Address**
+
+**School**
+
+**Pitches**
+
+**Interview Questions and Answers**
+
+**Negotiation Letters**
+
 
 ## Use of Data
 
