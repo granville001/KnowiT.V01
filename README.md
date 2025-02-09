@@ -1,6 +1,6 @@
 # Privacy Policy version 1.0 for the KnowiT iOS app
 
-##Data Collection
+## Data Collection
 
 To provide users with a personalized and effective experience, our application collects the following types of data:
 
@@ -12,7 +12,7 @@ Email Address: Used as a unique identifier for users and for communication purpo
 
 School: Used to further personalize features such as negotiation letters and pitches by incorporating educational context.
 
-##Use of Data
+## Use of Data
 
 The data collected is utilized in the following ways:
 
@@ -22,10 +22,10 @@ Communications: To address users personally in correspondence and to send update
 
 User Identification: To uniquely identify users and maintain the integrity of their profiles within the app.
 
-##Data Sharing
+## Data Sharing
 
 We maintain a strict policy of not sharing user data with any third-party entities. All data collected is used exclusively for the purposes outlined above and remains confidential.
 
-##User Responsibility
+## User Responsibility
 
 Users are responsible for ensuring that the information they provide is accurate and up-to-date. This ensures the app can deliver its services effectively and that all personalized features function as intended.
